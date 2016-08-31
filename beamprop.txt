@@ -1,0 +1,2 @@
+propNum,beamID,density,"E",'propName'
+2,23,.860,29000000,'Big old Beam'
